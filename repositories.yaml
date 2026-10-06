@@ -195,3 +195,7 @@ categories:
     repos:
       - url: https://github.com/av/harbor
         description: Run LLM backends and APIs easily
+  - name: AI Chat Systems
+    repos:
+      - url: https://github.com/ysy0915/chat-system
+        description: Multi-model AI chat system with RAG, knowledge graph, and multi-agent workflows
