@@ -29,6 +29,7 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [SDKs & Libraries](#sdks--libraries)
   - [Go](#go)
   - [PHP & Laravel](#php--laravel)
+- [AI Chat Systems](#ai-chat-systems)
 
 
 ## AI Coding Agents
@@ -145,6 +146,10 @@ AI and machine learning projects hosted on GitHub. This awesome list is automati
 - [kargnas/laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) — Auto-translate Laravel language files ☆`250`
 - [grok-php/laravel](https://github.com/grok-php/laravel) — Grok AI integration for Laravel ☆`167`
 - [tott/laravel-tall-claude-ai-configs](https://github.com/tott/laravel-tall-claude-ai-configs) — Laravel TALL stack AI configs ☆`41`
+
+## AI Chat Systems
+
+- [ysy0915/chat-system](https://github.com/ysy0915/chat-system) — Multi-model AI chat system with RAG, knowledge graph, and multi-agent workflows
 
 
 
